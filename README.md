@@ -1,28 +1,77 @@
-# Paloma-Fontes-
 
-Eu sou a Paloma Fontes 
 
-Estudante de Engenharia de Software
-Apaixonada por tecnologia, inovação e desenvolvimento de soluções.
-Falo Inglês e Espanhol
-Em busca da minha primeira oportunidade profissional na área de Tecnologia da Informação.
+<div align="center">
 
-Sobre mim
+  <h1>Olá! Eu sou a Paloma Fontes 👋</h1>
 
-Sou estudante de Engenharia de Software e estou construindo minha trajetória no universo da tecnologia.
+  <h3>Estudante de Engenharia de Software | Tecnologia e Inovação</h3>
 
-Tenho interesse em aprender novas linguagens de programação, desenvolver projetos e aprimorar minhas habilidades técnicas. Acredito que a tecnologia é uma ferramenta capaz de transformar ideias em soluções.
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Estudante+de+Engenharia+de+Software;Em+busca+da+primeira+oportunidade!" />
 
-Atualmente, busco minha primeira oportunidade profissional para colocar meus conhecimentos em prática, adquirir experiência e crescer junto com a equipe.
+</div>
 
-Objetivos
+---
 
-* Aprimorar meus conhecimentos em programação.
-* Desenvolver projetos práticos.
-* Aprender novas tecnologias e ferramentas.
-* Contribuir com projetos colaborativos.
-* Conquistar minha primeira oportunidade na área de tecnologia.
+## 👩‍💻 Sobre mim
 
-Formação
+- 🎓 Estudante de Engenharia de Software.
 
-* Engenharia de Software — Cursando.
+- 💻 Interessada no universo da tecnologia.
+
+- 🚀 Em busca da minha primeira oportunidade profissional em TI.
+
+- 📚 Sempre aprendendo e desenvolvendo novas habilidades.
+
+- 🤝 Aberta a conexões e oportunidades profissionais.
+
+## 🎯 Objetivos
+
+Busco desenvolver minhas habilidades técnicas, participar de projetos e transformar conhecimentos em soluções tecnológicas.
+
+Tenho interesse em inovação, desenvolvimento de software e aprendizado contínuo.
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  </a>
+
+  <a href="https://github.com/SEU_USUARIO">
+
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  **Obrigada pela visita! 💙**
+
+  *Sempre aprendendo, evoluindo e construindo o futuro através da tecnologia.*
+
+</div>
